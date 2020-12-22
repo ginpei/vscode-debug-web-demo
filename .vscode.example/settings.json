@@ -1,0 +1,8 @@
+{
+  "vscode-edge-devtools.defaultUrl": "http://localhost:8080/",
+  "vscode-edge-devtools.enableNetwork": true,
+  // "vscode-edge-devtools.headless": true,
+  "vscode-edge-devtools.sourceMapPathOverrides": {
+    "http://localhost:8080/*": "${workspaceFolder}/public/*"
+  }
+}

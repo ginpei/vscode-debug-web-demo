@@ -14,6 +14,7 @@
     {
       "name": "Client",
       "request": "launch",
+      // "runtimeArgs": ["--remote-debugging-port=9222"],
       "type": "pwa-chrome",
       "url": "http://localhost:8080",
       "webRoot": "${workspaceFolder}/public"
